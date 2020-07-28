@@ -26,7 +26,7 @@ The tests are red, you mission is, to make them all pass. So to turn them green.
 
 ## Your Mission
 
-Let the method in /lib/hello_world.rb return the string, but without using the following chars:
+Let the method in /lib/hello_world.rb return the string `Hello, World!`, but without using the following chars:
 
 `H, e, l, o, W, r, d` Also comma `,` and `!` is not allowed to use.
 
