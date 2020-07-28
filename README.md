@@ -24,6 +24,12 @@ You have to solve a code-puzzle. There are tests included, that will tell you, w
 
 The tests are red, you mission is, to make them all pass. So to turn them green.
 
+## Your Mission
+
+Let the method in /lib/hello_world.rb return the string, but without using the following chars: H, e, l, o, W, r, d. Also comma (,) and ! is not allowed to use.
+
+Bonus points for short versions!
+
 ## Submit your solution
 
 Submit your solution in your forked repository in a new branch. Push it up to github. Then ask for a Pull Request. If your solution was valid, you will get contacted by Code-Adventure to get access to the backstage-area.
